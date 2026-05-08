@@ -1,4 +1,4 @@
-# 🏗️ Dalco Aluminium Company Ltd
+#  Dalco Aluminium Company Ltd
 
 > Premium aluminium windows, doors, partitions & roofing — crafted to last a lifetime.
 
@@ -6,11 +6,11 @@
 
 ---
 
-## 🌐 About the Site
+##  About the Site
 
 A fully responsive, single-page business website built from scratch for Dalco Aluminium Company Ltd. No frameworks, no build tools — just clean HTML, CSS, and vanilla JavaScript.
 
-### ✨ Features
+###  Features
 
 - Animated hero section with full-screen background image
 - Sticky navbar with mobile hamburger menu
@@ -25,21 +25,21 @@ A fully responsive, single-page business website built from scratch for Dalco Al
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
-├── index.html        # Main page
-├── style.css         # All styles & responsive layout
-├── script.js         # Interactions, animations, lightbox, form
-├── logo.png          # Company logo
-├── About.mp4         # About section video
-├── work 1–5.jpg      # Gallery images
-└── work 6–7.mp4      # Gallery videos
+ index.html        # Main page
+ style.css         # All styles & responsive layout
+ script.js         # Interactions, animations, lightbox, form
+ logo.png          # Company logo
+ About.mp4         # About section video
+ work 1–5.jpg      # Gallery images
+ work 6–7.mp4      # Gallery videos
 ```
 
 ---
 
-## 🚀 Running Locally
+##  Running Locally
 
 No setup needed. Just open the file in your browser:
 
@@ -51,7 +51,7 @@ Or drag `index.html` into any browser window.
 
 ---
 
-## 🎨 Brand Colors
+##  Brand Colors
 
 | Role       | Color     | Hex       |
 |------------|-----------|-----------|
@@ -61,14 +61,14 @@ Or drag `index.html` into any browser window.
 
 ---
 
-## 📞 Contact
+##  Contact
 
 | | |
 |---|---|
-| 📍 Address | Ijebu-ode Rd, Epe, Irangunshi 106104, Lagos |
-| 📱 Phone | [0802 060 7808](tel:+2348020607808) |
-| 📧 Email | [dalcoaluminium@gmail.com](mailto:dalcoaluminium@gmail.com) |
-| 🕐 Hours | Monday – Saturday, 8:00 AM – 5:00 PM |
+|  Address | Ijebu-ode Rd, Epe, Irangunshi 106104, Lagos |
+|  Phone | [0802 060 7808](tel:+2348020607808) |
+|  Email | [dalcoaluminium@gmail.com](mailto:dalcoaluminium@gmail.com) |
+|  Hours | Monday – Saturday, 8:00 AM – 5:00 PM |
 
 ---
 
